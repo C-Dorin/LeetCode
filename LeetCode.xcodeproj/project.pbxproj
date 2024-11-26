@@ -42,6 +42,7 @@
 		DF43C5252AF10FF2008B815B /* TwoSum.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TwoSum.hpp; sourceTree = "<group>"; };
 		DF43C5262AF11712008B815B /* PalindromeNumber.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PalindromeNumber.hpp; sourceTree = "<group>"; };
 		DF6B61F02CE3C4B000DA6130 /* LeetCode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeetCode.hpp; sourceTree = "<group>"; };
+		DF7E98712CF63991007C67D3 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		DF870B0B2AF33E9E001A9589 /* ValidParantheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ValidParantheses.cpp; sourceTree = "<group>"; };
 		DF870B0C2AF33E9E001A9589 /* ValidParantheses.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ValidParantheses.hpp; sourceTree = "<group>"; };
 		DFB236B22AF09A7700B4A835 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -121,6 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				DFB236C42AF0A34600B4A835 /* main.cpp */,
+				DF7E98712CF63991007C67D3 /* .gitignore */,
 				DFB236B42AF09A7700B4A835 /* LeetCode */,
 				DFB236B32AF09A7700B4A835 /* Products */,
 			);
