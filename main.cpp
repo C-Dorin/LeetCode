@@ -9,12 +9,16 @@
 #include "iostream"
 
 int main() {
+// Easy level
 //	displayRomanToInteger();
 //	displayLongestCommonPrefix();
 //	displayTwoSum();
 //	displayIsPalindrome();
 //	displayIsValid();
-	displayRemoveDuplicates();
+//	displayRemoveDuplicates();
+
+// Medium level
+	displayAddTwoNumbers();
 
     return 0;
 }
