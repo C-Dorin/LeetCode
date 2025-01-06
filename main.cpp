@@ -18,7 +18,8 @@ int main() {
 //	displayRemoveDuplicates();
 
 // Medium level
-	displayAddTwoNumbers();
+//	displayAddTwoNumbers();
+	displayLengthOfLongestSubstring();
 
     return 0;
 }

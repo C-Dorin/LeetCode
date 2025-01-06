@@ -18,6 +18,7 @@
 
 // Medium level
 #include "AddTwoNumbers.hpp"
+#include "LongestSubstringWithoutRepeatingCharacters.hpp"
 
 // Hard level
 
