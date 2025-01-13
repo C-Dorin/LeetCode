@@ -16,10 +16,11 @@ int main() {
 //	displayIsPalindrome();
 //	displayIsValid();
 //	displayRemoveDuplicates();
+	displayScoreOfString();
 
 // Medium level
 //	displayAddTwoNumbers();
-	displayLengthOfLongestSubstring();
+//	displayLengthOfLongestSubstring();
 
     return 0;
 }

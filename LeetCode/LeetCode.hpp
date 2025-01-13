@@ -15,6 +15,7 @@
 #include "PalindromeNumber.hpp"
 #include "ValidParantheses.hpp"
 #include "RemoveDuplicatesFromSortedArray.hpp"
+#include "ScoreOfString.hpp"
 
 // Medium level
 #include "AddTwoNumbers.hpp"
