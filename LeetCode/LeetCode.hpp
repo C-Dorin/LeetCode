@@ -16,6 +16,7 @@
 #include "ValidParantheses.hpp"
 #include "RemoveDuplicatesFromSortedArray.hpp"
 #include "ScoreOfString.hpp"
+#include "FindTheArrayConcatinationValue.hpp"
 
 // Medium level
 #include "AddTwoNumbers.hpp"

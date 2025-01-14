@@ -16,7 +16,8 @@ int main() {
 //	displayIsPalindrome();
 //	displayIsValid();
 //	displayRemoveDuplicates();
-	displayScoreOfString();
+//	displayScoreOfString();
+	displayFindTheArrayConcatinationValue();
 
 // Medium level
 //	displayAddTwoNumbers();
