@@ -17,7 +17,8 @@ int main() {
 //	displayIsValid();
 //	displayRemoveDuplicates();
 //	displayScoreOfString();
-	displayFindTheArrayConcatinationValue();
+//	displayFindTheArrayConcatinationValue();
+	displayIsSubsequence();
 
 // Medium level
 //	displayAddTwoNumbers();

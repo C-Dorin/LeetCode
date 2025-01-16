@@ -17,6 +17,7 @@
 #include "RemoveDuplicatesFromSortedArray.hpp"
 #include "ScoreOfString.hpp"
 #include "FindTheArrayConcatinationValue.hpp"
+#include "IsSubsequence.hpp"
 
 // Medium level
 #include "AddTwoNumbers.hpp"
