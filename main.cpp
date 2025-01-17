@@ -18,11 +18,12 @@ int main() {
 //	displayRemoveDuplicates();
 //	displayScoreOfString();
 //	displayFindTheArrayConcatinationValue();
-	displayIsSubsequence();
+//	displayIsSubsequence();
 
 // Medium level
 //	displayAddTwoNumbers();
 //	displayLengthOfLongestSubstring();
+	displayMaxDistinctElements();
 
     return 0;
 }

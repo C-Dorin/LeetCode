@@ -22,6 +22,7 @@
 // Medium level
 #include "AddTwoNumbers.hpp"
 #include "LongestSubstringWithoutRepeatingCharacters.hpp"
+#include "MaximumNumberOfDistinctElementsAfterOperations.hpp"
 
 // Hard level
 
