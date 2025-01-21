@@ -19,11 +19,12 @@ int main() {
 //	displayScoreOfString();
 //	displayFindTheArrayConcatinationValue();
 //	displayIsSubsequence();
+	displaySmallerNumbersThanCurrent();
 
 // Medium level
 //	displayAddTwoNumbers();
 //	displayLengthOfLongestSubstring();
-	displayMaxDistinctElements();
+//	displayMaxDistinctElements();
 
     return 0;
 }

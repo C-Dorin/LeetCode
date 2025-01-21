@@ -18,6 +18,7 @@
 #include "ScoreOfString.hpp"
 #include "FindTheArrayConcatinationValue.hpp"
 #include "IsSubsequence.hpp"
+#include "HowManyNumbersAreSmallerThanTheCurrentNumber.hpp"
 
 // Medium level
 #include "AddTwoNumbers.hpp"
