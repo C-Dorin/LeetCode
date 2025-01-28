@@ -9,21 +9,22 @@
 #define LeetCode_hpp
 
 // Easy level
-#include "RomanToInteger.hpp"
-#include "LongestCommonPrefix.hpp"
-#include "TwoSum.hpp"
-#include "PalindromeNumber.hpp"
-#include "ValidParantheses.hpp"
-#include "RemoveDuplicatesFromSortedArray.hpp"
-#include "ScoreOfString.hpp"
-#include "FindTheArrayConcatinationValue.hpp"
-#include "IsSubsequence.hpp"
-#include "HowManyNumbersAreSmallerThanTheCurrentNumber.hpp"
+#include "RomanToInteger/RomanToInteger.hpp"
+#include "LongestCommonPrefix/LongestCommonPrefix.hpp"
+#include "TwoSum/TwoSum.hpp"
+#include "PalindromeNumber/PalindromeNumber.hpp"
+#include "ValidParantheses/ValidParantheses.hpp"
+#include "RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.hpp"
+#include "ScoreOfString/ScoreOfString.hpp"
+#include "FindTheArrayConcatinationValue/FindTheArrayConcatinationValue.hpp"
+#include "IsSubsequence/IsSubsequence.hpp"
+#include "HowManyNumbersAreSmallerThanTheCurrentNumber/HowManyNumbersAreSmallerThanTheCurrentNumber.hpp"
+#include "WaterBottles/WaterBottles.hpp"
 
 // Medium level
-#include "AddTwoNumbers.hpp"
-#include "LongestSubstringWithoutRepeatingCharacters.hpp"
-#include "MaximumNumberOfDistinctElementsAfterOperations.hpp"
+#include "AddTwoNumbers/AddTwoNumbers.hpp"
+#include "LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.hpp"
+#include "MaximumNumberOfDistinctElementsAfterOperations/MaximumNumberOfDistinctElementsAfterOperations.hpp"
 
 // Hard level
 

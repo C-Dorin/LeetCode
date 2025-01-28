@@ -8,7 +8,7 @@
 #ifndef RemoveDuplicatesFromSortedArray_hpp
 #define RemoveDuplicatesFromSortedArray_hpp
 
-#include "vector"
+#include <vector>
 
 int removeDuplicates(std::vector<int>& nums);
 void displayRemoveDuplicates();

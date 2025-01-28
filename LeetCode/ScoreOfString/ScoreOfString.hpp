@@ -8,7 +8,7 @@
 #ifndef ScoreOfString_hpp
 #define ScoreOfString_hpp
 
-#include "string"
+#include <string>
 
 int scoreOfString(std::string s);
 void displayScoreOfString();

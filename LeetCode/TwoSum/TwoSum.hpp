@@ -8,7 +8,7 @@
 #ifndef TwoSum_hpp
 #define TwoSum_hpp
 
-#include "vector"
+#include <vector>
 
 std::vector <int> twoSum(std::vector<int> &nums, int target);
 void displayTwoSum();

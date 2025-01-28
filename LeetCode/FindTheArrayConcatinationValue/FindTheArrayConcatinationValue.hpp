@@ -8,7 +8,7 @@
 #ifndef FindTheArrayConcatinationValue_hpp
 #define FindTheArrayConcatinationValue_hpp
 
-#include "vector"
+#include <vector>
 
 long long findTheArrayConcatinationValue(std::vector<int>& nums);
 void displayFindTheArrayConcatinationValue();

@@ -8,8 +8,8 @@
 #ifndef LongestCommonPrefix_hpp
 #define LongestCommonPrefix_hpp
 
-#include "iostream"
-#include "vector"
+#include <string>
+#include <vector>
 
 std::string longestCommonPrefix(std::vector<std::string> &strs);
 void displayLongestCommonPrefix();

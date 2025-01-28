@@ -15,7 +15,9 @@
 //
 
 #include "ScoreOfString.hpp"
-#include "iostream"
+#include <iostream>
+#include <string>
+#include <cstdlib>
 
 using namespace std;
 

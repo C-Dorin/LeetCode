@@ -8,7 +8,7 @@
 #ifndef MaximumNumberOfDistinctElementsAfterOperations_hpp
 #define MaximumNumberOfDistinctElementsAfterOperations_hpp
 
-#include "vector"
+#include <vector>
 
 int maxDistinctElements(std::vector<int>& nums, int k);
 void displayMaxDistinctElements();

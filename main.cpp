@@ -5,8 +5,8 @@
 //  Created by Dorin Curnic on 12.11.2024.
 //
 
-#include "LeetCode.hpp"
-#include "iostream"
+#include "LeetCode/LeetCode.hpp"
+#include <iostream>
 
 int main() {
 // Easy level
@@ -19,7 +19,8 @@ int main() {
 //	displayScoreOfString();
 //	displayFindTheArrayConcatinationValue();
 //	displayIsSubsequence();
-	displaySmallerNumbersThanCurrent();
+//	displaySmallerNumbersThanCurrent();
+	displayNumWaterBottles();
 
 // Medium level
 //	displayAddTwoNumbers();

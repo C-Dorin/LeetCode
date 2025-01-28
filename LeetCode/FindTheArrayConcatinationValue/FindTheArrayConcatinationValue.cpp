@@ -23,14 +23,14 @@
 //
 
 #include "FindTheArrayConcatinationValue.hpp"
-#include "iostream"
-#include "vector"
+#include <iostream>
+#include <vector>
 
 using namespace std;
 
 long long findTheArrayConcatinationValue(vector<int>& nums) {
 	int left = 0;
-	int right = nums.size() - 1;
+	unsigned long right = nums.size() - 1;
 	long long result = 0;
 
 	while (left <= right) {

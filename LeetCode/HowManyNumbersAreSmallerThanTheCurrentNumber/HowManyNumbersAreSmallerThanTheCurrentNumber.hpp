@@ -8,7 +8,7 @@
 #ifndef HowManyNumbersAreSmallerThanTheCurrentNumber_hpp
 #define HowManyNumbersAreSmallerThanTheCurrentNumber_hpp
 
-#include "vector"
+#include <vector>
 
 std::vector<int> smallerNumbersThanCurrent(std::vector<int>& nums);
 void displaySmallerNumbersThanCurrent();

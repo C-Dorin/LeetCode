@@ -16,10 +16,10 @@
 //
 
 #include "MaximumNumberOfDistinctElementsAfterOperations.hpp"
-#include "iostream"
-#include "vector"
-#include "algorithm"
-#include "climits"
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <climits>
 
 using namespace std;
 

@@ -8,7 +8,7 @@
 #ifndef RomantoInteger_hpp
 #define RomantoInteger_hpp
 
-#include "iostream"
+#include <string>
 
 int romanToInteger(std::string s);
 void displayRomanToInteger();
