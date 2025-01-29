@@ -20,6 +20,7 @@
 #include "IsSubsequence/IsSubsequence.hpp"
 #include "HowManyNumbersAreSmallerThanTheCurrentNumber/HowManyNumbersAreSmallerThanTheCurrentNumber.hpp"
 #include "WaterBottles/WaterBottles.hpp"
+#include "TheTwoSneakyNumbersOfDigitville/TheTwoSneakyNumbersOfDigitville.hpp"
 
 // Medium level
 #include "AddTwoNumbers/AddTwoNumbers.hpp"

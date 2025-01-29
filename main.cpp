@@ -20,7 +20,8 @@ int main() {
 //	displayFindTheArrayConcatinationValue();
 //	displayIsSubsequence();
 //	displaySmallerNumbersThanCurrent();
-	displayNumWaterBottles();
+//	displayNumWaterBottles();
+	displayGetSneakyNumbers();
 
 // Medium level
 //	displayAddTwoNumbers();
