@@ -26,6 +26,7 @@
 #include "AddTwoNumbers/AddTwoNumbers.hpp"
 #include "LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.hpp"
 #include "MaximumNumberOfDistinctElementsAfterOperations/MaximumNumberOfDistinctElementsAfterOperations.hpp"
+#include "CountNumberOfDistinctIntegersAfterReverseOperations/CountNumberOfDistinctIntegersAfterReverseOperations.hpp"
 
 // Hard level
 

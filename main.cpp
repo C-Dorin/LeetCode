@@ -21,12 +21,13 @@ int main() {
 //	displayIsSubsequence();
 //	displaySmallerNumbersThanCurrent();
 //	displayNumWaterBottles();
-	displayGetSneakyNumbers();
+//	displayGetSneakyNumbers();
 
 // Medium level
 //	displayAddTwoNumbers();
 //	displayLengthOfLongestSubstring();
 //	displayMaxDistinctElements();
+	displayCountDistinctIntegers();
 
     return 0;
 }
