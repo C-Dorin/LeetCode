@@ -27,7 +27,8 @@ int main() {
 //	displayAddTwoNumbers();
 //	displayLengthOfLongestSubstring();
 //	displayMaxDistinctElements();
-	displayCountDistinctIntegers();
+//	displayCountDistinctIntegers();
+	displayMyCircularDeque();
 
     return 0;
 }

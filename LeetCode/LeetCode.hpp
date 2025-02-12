@@ -27,6 +27,7 @@
 #include "LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.hpp"
 #include "MaximumNumberOfDistinctElementsAfterOperations/MaximumNumberOfDistinctElementsAfterOperations.hpp"
 #include "CountNumberOfDistinctIntegersAfterReverseOperations/CountNumberOfDistinctIntegersAfterReverseOperations.hpp"
+#include "DesignCircularDeque/DesignCircularDeque.hpp"
 
 // Hard level
 
